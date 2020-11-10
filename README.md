@@ -1,4 +1,4 @@
-<h1 align="center">console.log('Hola Mundo! Soy Sergio ')</h1>
+<h1 align="center">Hola Mundo! Soy Sergio Mendieta'</h1>
 <h3 align="center">Estoy empezando en el ámbito del desarrollo web, subiendo de a poco algunos proyectos que voy aprendiendo día a día ! Soy una persona comprometida con sus tareas, me gusta aprender constantemente. Apasionado por la informatica y el desarrollo web.</h3>
 
 
