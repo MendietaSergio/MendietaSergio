@@ -1,10 +1,10 @@
-<h1 align="center">Hola Mundo! Soy Sergio Mendieta</h1> 
+<h1 align="center">Hola Mundo! Soy Sergio Mendieta <img src="https://cdn.icon-icons.com/icons2/393/PNG/512/github_39686.png" alt="Github" width="40" height="40"></h1>
 
 
 <h3 align="left">Estoy empezando en el ámbito del desarrollo web, subiendo de a poco algunos proyectos que voy aprendiendo día a día ! Soy una persona comprometida con sus tareas, me gusta aprender constantemente. Apasionado por la informática y el desarrollo web.</h3>
 
+<h3>Puedes revisar mi <a href = "https://mendietasergio.github.io/" target="_blank"> Portafolio</a> para ver mis proyecto y poder contactarme. </h3>
 
-<a href = "https://mendietasergio.github.io/" target="_blank"> Portafolio</a>
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <p align="left"> <a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="40" height="40"/> </a>
