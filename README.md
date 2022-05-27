@@ -3,7 +3,7 @@
 
 <h3 align="left">Estoy empezando en el ámbito del desarrollo web, subiendo de a poco algunos proyectos que voy aprendiendo día a día ! Soy una persona comprometida con sus tareas, me gusta aprender constantemente. Apasionado por la informática y el desarrollo web.</h3>
 
-<h3>Puedes revisar mi <a href = "https://smendietaportfolio.herokuapp.com/" target="_blank"> Portafolio</a> para ver mis proyecto y poder contactarme. </h3>
+<h3>Puedes revisar mi <a href = "https://dev-mendietasergio.com.ar/" target="_blank"> Portafolio</a> para ver mis proyecto y poder contactarme. </h3>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
